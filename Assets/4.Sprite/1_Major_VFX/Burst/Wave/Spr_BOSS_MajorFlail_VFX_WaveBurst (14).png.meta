@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 1e04f6c07363e2b4c93d9c0d56b2966d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2849331118146329223
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_0
+  - first:
+      213: 7538963122592176986
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_1
+  - first:
+      213: -1773218102528280394
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_2
+  - first:
+      213: 6037934296185521317
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_3
+  - first:
+      213: 8917349009230054395
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_4
+  - first:
+      213: -7998974675474825595
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_5
+  - first:
+      213: 5860000715326954102
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_6
+  - first:
+      213: -5002250615983348038
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_7
+  - first:
+      213: -1827690131103199974
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_8
+  - first:
+      213: 4291021866443929431
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_9
+  - first:
+      213: -5590118853907060418
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_10
+  - first:
+      213: -5661073670075108581
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_11
+  - first:
+      213: -9175050329845052970
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_12
+  - first:
+      213: 4747359762516032238
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_13
+  - first:
+      213: -7204064235358182857
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_14
+  - first:
+      213: -5890565274543249600
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_15
+  - first:
+      213: 6181801271335017123
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_16
+  - first:
+      213: 4818659731624189330
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_17
+  - first:
+      213: -12473964184715476
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_18
+  - first:
+      213: -623679686132011007
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_19
+  - first:
+      213: -3075089874122230798
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_20
+  - first:
+      213: -6790598300577046833
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_21
+  - first:
+      213: 2451436080214606717
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_22
+  - first:
+      213: -44883770791163085
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_23
+  - first:
+      213: -2464538592996895630
+    second: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 690
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975eb67c1742578d0800000000000000
+      internalID: -2849331118146329223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 631
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b50e05407cf9860800000000000000
+      internalID: 7538963122592176986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 586
+        width: 40
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b87289d7834467e0800000000000000
+      internalID: -1773218102528280394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 586
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a44945804d0bc350800000000000000
+      internalID: 6037934296185521317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 545
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3c6518da9c0cb70800000000000000
+      internalID: 8917349009230054395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 551
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e3afcb9eeedf090800000000000000
+      internalID: -7998974675474825595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 502
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a199c5a97e25150800000000000000
+      internalID: 5860000715326954102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 504
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab665dc519f649ab0800000000000000
+      internalID: -5002250615983348038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 109
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d4b10628db2a6e0800000000000000
+      internalID: -1827690131103199974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 214
+        width: 54
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757f2d817a5cc8b30800000000000000
+      internalID: 4291021866443929431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 317
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39e7a42588eb62b0800000000000000
+      internalID: -5590118853907060418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 101
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b133bdf9d73df61b0800000000000000
+      internalID: -5661073670075108581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 136
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d94145265caba080800000000000000
+      internalID: -9175050329845052970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 119
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea30c92d8202e140800000000000000
+      internalID: 4747359762516032238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73221682fb5060c90800000000000000
+      internalID: -7204064235358182857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 153
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0472994a712804ea0800000000000000
+      internalID: -5890565274543249600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 377
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa5bf1f08b2ac550800000000000000
+      internalID: 6181801271335017123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 417
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d50fcde715fd240800000000000000
+      internalID: 4818659731624189330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 248
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f34d3eefea3dff0800000000000000
+      internalID: -12473964184715476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 102
+        width: 86
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100797e31ae3857f0800000000000000
+      internalID: -623679686132011007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 177
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f33b805d061355d0800000000000000
+      internalID: -3075089874122230798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 13
+        width: 279
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcedbb1e2d2f2c1a0800000000000000
+      internalID: -6790598300577046833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 84
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7384ce6020450220800000000000000
+      internalID: 2451436080214606717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 88
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b00d1c27a806ff0800000000000000
+      internalID: -44883770791163085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 88
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274dd2515333ccdd0800000000000000
+      internalID: -2464538592996895630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_0: -2849331118146329223
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_1: 7538963122592176986
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_10: -5590118853907060418
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_11: -5661073670075108581
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_12: -9175050329845052970
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_13: 4747359762516032238
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_14: -7204064235358182857
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_15: -5890565274543249600
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_16: 6181801271335017123
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_17: 4818659731624189330
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_18: -12473964184715476
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_19: -623679686132011007
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_2: -1773218102528280394
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_20: -3075089874122230798
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_21: -6790598300577046833
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_22: 2451436080214606717
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_23: -44883770791163085
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_24: -2464538592996895630
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_3: 6037934296185521317
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_4: 8917349009230054395
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_5: -7998974675474825595
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_6: 5860000715326954102
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_7: -5002250615983348038
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_8: -1827690131103199974
+      Spr_BOSS_MajorFlail_VFX_WaveBurst (14)_9: 4291021866443929431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

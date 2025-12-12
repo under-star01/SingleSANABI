@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 30eb2114ae228684e816e4dbd2f72a52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2523227414509218358
+    second: Spr_ChargeAim_Idle (lp) (2)_0
+  - first:
+      213: -3301712893404577300
+    second: Spr_ChargeAim_Idle (lp) (2)_1
+  - first:
+      213: -5055894422599301239
+    second: Spr_ChargeAim_Idle (lp) (2)_2
+  - first:
+      213: -5412714905684246600
+    second: Spr_ChargeAim_Idle (lp) (2)_3
+  - first:
+      213: -9039768702446351591
+    second: Spr_ChargeAim_Idle (lp) (2)_4
+  - first:
+      213: -1986851753916190464
+    second: Spr_ChargeAim_Idle (lp) (2)_5
+  - first:
+      213: 865020451919737782
+    second: Spr_ChargeAim_Idle (lp) (2)_6
+  - first:
+      213: -1754901189077351356
+    second: Spr_ChargeAim_Idle (lp) (2)_7
+  - first:
+      213: 8244677105863707444
+    second: Spr_ChargeAim_Idle (lp) (2)_8
+  - first:
+      213: 5634851704626115548
+    second: Spr_ChargeAim_Idle (lp) (2)_9
+  - first:
+      213: 2705811775755534624
+    second: Spr_ChargeAim_Idle (lp) (2)_10
+  - first:
+      213: 699278479737809015
+    second: Spr_ChargeAim_Idle (lp) (2)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 93
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a695107fd440320800000000000000
+      internalID: 2523227414509218358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 139
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce10b4edd95fd22d0800000000000000
+      internalID: -3301712893404577300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 93
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98707175fcad5d9b0800000000000000
+      internalID: -5055894422599301239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 45
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf7a38987c22e4b0800000000000000
+      internalID: -5412714905684246600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 93
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bcdf6824a4c8280800000000000000
+      internalID: -9039768702446351591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 93
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001b67a4bd84d64e0800000000000000
+      internalID: -1986851753916190464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 81
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3bf18948b210c00800000000000000
+      internalID: 865020451919737782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 45
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44442299aa655a7e0800000000000000
+      internalID: -1754901189077351356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 93
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b4dc6452afa6270800000000000000
+      internalID: 8244677105863707444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 93
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd37e3845c3033e40800000000000000
+      internalID: 5634851704626115548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 65
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0214afa5979fc8520800000000000000
+      internalID: 2705811775755534624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spr_ChargeAim_Idle (lp) (2)_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 49
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778e8d7821654b900800000000000000
+      internalID: 699278479737809015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spr_ChargeAim_Idle (lp) (2)_0: 2523227414509218358
+      Spr_ChargeAim_Idle (lp) (2)_1: -3301712893404577300
+      Spr_ChargeAim_Idle (lp) (2)_10: 2705811775755534624
+      Spr_ChargeAim_Idle (lp) (2)_11: 699278479737809015
+      Spr_ChargeAim_Idle (lp) (2)_2: -5055894422599301239
+      Spr_ChargeAim_Idle (lp) (2)_3: -5412714905684246600
+      Spr_ChargeAim_Idle (lp) (2)_4: -9039768702446351591
+      Spr_ChargeAim_Idle (lp) (2)_5: -1986851753916190464
+      Spr_ChargeAim_Idle (lp) (2)_6: 865020451919737782
+      Spr_ChargeAim_Idle (lp) (2)_7: -1754901189077351356
+      Spr_ChargeAim_Idle (lp) (2)_8: 8244677105863707444
+      Spr_ChargeAim_Idle (lp) (2)_9: 5634851704626115548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
