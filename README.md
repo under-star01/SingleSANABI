@@ -1,4 +1,4 @@
-# SingleSanabi
+# SINGLE_SANABI_PROJECT
 
 **Single Sanabi**는 SANABI의 와이어 액션과 이동 시스템을 중심으로 구현한  
 **2D 액션 프로젝트**입니다.
