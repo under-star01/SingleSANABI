@@ -1,8 +1,8 @@
 # SINGLE_SANABI_PROJECT
 
 <p align="center">
-  <img height="260" alt="Last Attraction Screenshot 1" src="https://github.com/user-attachments/assets/c842b07c-b303-4d1e-87f1-539a846f96cd" />
-  <img height="260" alt="Last Attraction Screenshot 2" src="https://github.com/user-attachments/assets/6080e8d7-8258-484b-85bc-cc38c5814f5d" />
+  <img height="250" alt="Last Attraction Screenshot 1" src="https://github.com/user-attachments/assets/c842b07c-b303-4d1e-87f1-539a846f96cd" />
+  <img height="250" alt="Last Attraction Screenshot 2" src="https://github.com/user-attachments/assets/6080e8d7-8258-484b-85bc-cc38c5814f5d" />
 </p>
 
 **Single Sanabi**는 SANABI의 와이어 액션과 이동 시스템을 중심으로 구현한  
